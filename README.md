@@ -1,6 +1,6 @@
 # CSE-Moodle-CSE-216-Database-Sessional-Project
 
-A student-teacher collaboration system made with 
+A student-teacher collaboration system made with:
 
 **Django** (BackEnd) 
 
